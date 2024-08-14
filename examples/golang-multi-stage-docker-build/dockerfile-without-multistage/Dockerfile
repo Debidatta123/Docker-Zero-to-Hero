@@ -15,3 +15,5 @@ RUN CGO_ENABLED=0 go build -o /app .
 ENTRYPOINT ["/app"]
 my name is debidatta
 
+to check the reset
+
